@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('images/bg2.jpg');
+}
+
+/* #home video{
+    width: 320px;
+    height: 240px;
+} */
+
+/* #videoPlayer{
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    
+} */
+
+#myVideo{
+    height: 100vh;
+    width: 100%;
+}
+
+/* #videoPlayer video{
+    height: 50vh;
+    width: 100%;
+} */
+
+/* #heading{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+#heading h1{
+    font-size: 34px;
+    color: brown;
+    margin-bottom: 22px;
+}
+#heading h2{
+    font-size: 24px;
+    color: rgb(231, 78, 78);
+    margin-bottom: 22px;
+} */
